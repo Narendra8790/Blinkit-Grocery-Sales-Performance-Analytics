@@ -98,6 +98,9 @@ The report is structured into multiple analytical views:
 7. **Outlet Summary Metrics**
 
    * Provides a consolidated table of KPIs by outlet for management review.
+  
+     <img width="1919" height="1018" alt="Screenshot 2025-08-24 143432" src="https://github.com/user-attachments/assets/8b3b0688-e5d4-4eaa-b9ec-4efd4688be42" />
+
 
 ---
 
