@@ -164,5 +164,4 @@ Blinkit-Analysis/
 
 ## 📜 License
 
-This project is released under the **MIT License** — you are free to use and modify it for educational or portfolio purposes.
-
+This project is released under the **MIT License**
